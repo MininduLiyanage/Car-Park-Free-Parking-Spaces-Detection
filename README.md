@@ -5,10 +5,10 @@ This project focuses on detecting free parking spaces in a car park using comput
 The objective is to analyze video frames of a car park and determine which parking spaces are free and which are occupied. The system uses computer vision techniques to evaluate the occupancy status of each parking space.
 
 ## Libraries Used
-OpenCV (cv2): Used for video processing and computer vision tasks.
-Pickle: Used for serializing and deserializing Python objects, particularly for saving and loading parking space coordinates.
-cvzone: Provides additional utilities and functions for OpenCV.
-NumPy: Essential for numerical operations and array manipulations.
+  1. OpenCV (cv2): Used for video processing and computer vision tasks.
+  2. Pickle: Used for serializing and deserializing Python objects, particularly for saving and loading parking space coordinates.
+  3. cvzone: Provides additional utilities and functions for OpenCV.
+  4. NumPy: Essential for numerical operations and array manipulations.
 
 ## Project Structure
   1. park_spaces.py
